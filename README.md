@@ -16,6 +16,7 @@
 | Skill | 说明 |
 |---|---|
 | [pdf-paper-analysis](skills/pdf-paper-analysis/README.md) | 解析 PDF 文献，提炼核心算法与实现原理，输出原理分析文档和开发指导手册 |
+| [ansys-help](skills/ansys-help/README.md) | 在本地 Ansys Help 路径中按关键词快速检索并返回高相关结果（软件名、模块、操作、用例、错误） |
 
 ## 适用人群
 
